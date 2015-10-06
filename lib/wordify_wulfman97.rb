@@ -1,4 +1,5 @@
 require "wordify_wulfman97/version"
+require "wordify_wulfman97/greeting"
 
 module WordifyWulfman97
   def self.reversify(str)
